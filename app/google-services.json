@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "385165054104",
+    "firebase_url": "https://demo1-84f0f-default-rtdb.firebaseio.com",
+    "project_id": "demo1-84f0f",
+    "storage_bucket": "demo1-84f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385165054104:android:6cafe6a6058936be3f00ed",
+        "android_client_info": {
+          "package_name": "com.example.database_linkage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGYlSL7nYjhjbFp90kUF8TTBth-_ks2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385165054104:android:4250740fd92c66d03f00ed",
+        "android_client_info": {
+          "package_name": "com.example.valorquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGYlSL7nYjhjbFp90kUF8TTBth-_ks2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385165054104:android:f6adb845ab234ac03f00ed",
+        "android_client_info": {
+          "package_name": "com.example.valorquestapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGYlSL7nYjhjbFp90kUF8TTBth-_ks2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
